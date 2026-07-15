@@ -1,0 +1,3 @@
+This project is my attempt to use automation and AutoHotKey script(s) to learn and document the value of each item modifier in Path of Exile 2. The idea is to search up each item mod individually on the Trade Market to determine which item mods are desirable and expensive. Due to there being hundreds of mods in the game, we are using automation to look up and store each individual price data point.
+
+This is a WIP and this README will be updated as the project progresses further along.
