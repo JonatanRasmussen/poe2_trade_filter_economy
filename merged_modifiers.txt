@@ -1,0 +1,65 @@
+=== NORMAL MODIFIERS ===
+
+[Suffix]
++(5-33) to Intelligence  [Attribute]
++(6-45)% to Fire Resistance  [Elemental, Fire, Resistance]
++(6-45)% to Cold Resistance  [Cold, Elemental, Resistance]
++(6-45)% to Lightning Resistance  [Elemental, Lightning, Resistance]
++(4-27)% to Chaos Resistance  [Chaos, Resistance]
+(15-35)% reduced Attribute Requirements
++(1-2) to Level of all Spell Skills  [Caster, Gem]
+(10-69)% increased Mana Regeneration Rate  [Mana]
+(9-32)% increased Cast Speed  [Caster, Speed]
+(27-59)% increased Critical Hit Chance for Spells  [Caster, Critical]
+(10-34)% increased Critical Spell Damage Bonus  [Caster, Critical]
+(16-27)% increased Energy Shield Recharge Rate  [Energy Shield]
+
+[Prefix]
++(10-164) to maximum Mana  [Mana]
++(10-90) to maximum Energy Shield  [Energy Shield]
+(15-100)% increased Energy Shield  [Energy Shield]
+(6-42)% increased Energy Shield | +(6-39) to maximum Mana  [Energy Shield, Mana]
+(25-89)% increased Spell Damage  [Caster, Damage]
+(25-89)% increased Fire Damage  [Damage, Elemental, Fire]
+(25-89)% increased Cold Damage  [Cold, Damage, Elemental]
+(25-89)% increased Lightning Damage  [Damage, Elemental, Lightning]
+(25-89)% increased Chaos Damage  [Chaos, Damage]
+(25-89)% increased Spell Physical Damage  [Damage, Physical]
+
+========================================
+
+=== CORRUPTED MODIFIERS ===
+
+[Corrupted Implicit]
+(15-25)% increased Energy Shield  [Energy Shield]
+(10-20)% reduced Attribute Requirements
++(20-25) to maximum Mana  [Mana]
+(20-30)% increased Spell Damage  [Caster, Damage]
+
+========================================
+
+=== DESECRATED MODIFIERS ===
+
+[Prefix]
+(8-16)% increased Curse Magnitudes  [Caster, Curse, amanamu]
+Offering Skills have (12-20)% increased Buff effect  [amanamu]
+Invocated Spells deal (61-79)% increased Damage  [Caster, kurgal]
+Spell Skills have (10-20)% increased Area of Effect  [Caster, kurgal]
+Spell Skills have +1 to maximum number of Summoned Totems  [Caster, ulaman]
+(61-79)% increased Spell Damage while wielding a Melee Weapon  [Caster, ulaman]
+
+[Suffix]
++(13-17)% to Fire and Chaos Resistances  [Chaos, Elemental, Fire, Resistance, amanamu]
++(9-15) to Strength and Intelligence  [Attribute, amanamu]
++(1-2) to Level of all Minion Skills  [Gem, Minion, amanamu]
+(10-20)% faster Curse Activation  [Caster, Curse, amanamu]
++(13-17)% to Cold and Chaos Resistances  [Chaos, Cold, Elemental, Resistance, kurgal]
++(9-15) to Dexterity and Intelligence  [Attribute, kurgal]
+(6-10)% increased Mana Cost Efficiency  [Mana, kurgal]
+(15-25)% chance when collecting an Elemental Infusion to gain an | additional Elemental Infusion of the same type  [kurgal]
++(13-17)% to Lightning and Chaos Resistances  [Chaos, Elemental, Lightning, Resistance, ulaman]
++(9-15) to Strength and Dexterity  [Attribute, ulaman]
+(10-20)% of Spell Mana Cost Converted to Life Cost  [Caster, Life, ulaman]
+(10-16)% chance for Spell Skills to fire 2 additional Projectiles  [Caster, ulaman]
+
+========================================

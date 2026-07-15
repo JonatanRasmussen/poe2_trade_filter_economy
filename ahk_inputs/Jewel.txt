@@ -1,0 +1,481 @@
+Jewel
+#% increased Accuracy Rating
+10
+Jewel
+#% increased chance to inflict Ailments
+15
+Jewel
+#% increased Magnitude of Ailments you inflict
+15
+Jewel
+#% increased Elemental Ailment Threshold
+20
+Jewel
+#% increased Area of Effect
+6
+Jewel
+#% increased Armour
+20
+Jewel
+Break #% increased Armour
+15
+Jewel
+#% increased Armour Break Duration
+20
+Jewel
+#% increased Critical Hit Chance for Attacks
+16
+Jewel
+#% increased Critical Damage Bonus for Attack Damage
+20
+Jewel
+#% increased Attack Damage
+15
+Jewel
+#% increased Attack Speed
+4
+Jewel
+#% chance to inflict Bleeding on Hit
+7
+Jewel
+#% increased Bleeding Duration
+10
+Jewel
+#% increased Blind Effect
+10
+Jewel
+#% chance to Blind Enemies on Hit with Attacks
+7
+Jewel
+#% increased Block chance
+7
+Jewel
+#% increased Damage with Hits against Rare and Unique Enemies
+20
+Jewel
+#% increased Accuracy Rating with Bows
+15
+Jewel
+#% increased Damage with Bows
+16
+Jewel
+#% increased Attack Speed with Bows
+4
+Jewel
+#% increased Cast Speed
+4
+Jewel
+Projectiles have #% chance to Chain an additional time from terrain
+5
+Jewel
+#% increased Charm Effect Duration
+15
+Jewel
+#% increased Charm Charges gained
+15
+Jewel
+#% increased Damage while you have an active Charm
+20
+Jewel
+#% increased Chaos Damage
+13
+Jewel
+#% increased Chill Duration on Enemies
+25
+Jewel
+#% increased Cold Damage
+15
+Jewel
+Damage Penetrates #% Cold Resistance
+10
+Jewel
+#% increased Cooldown Recovery Rate
+5
+Jewel
+#% increased Damage if you have Consumed a Corpse Recently
+20
+Jewel
+#% increased Magnitude of Damaging Ailments you inflict with Critical Hits
+20
+Jewel
+#% increased Critical Hit Chance
+15
+Jewel
+#% increased Critical Damage Bonus
+20
+Jewel
+#% increased Critical Spell Damage Bonus
+20
+Jewel
+#% increased Damage with Crossbows
+16
+Jewel
+#% increased Crossbow Reload Speed
+15
+Jewel
+#% increased Attack Speed with Crossbows
+4
+Jewel
+#% increased Area of Effect of Curses
+12
+Jewel
+#% faster Curse Activation
+15
+Jewel
+#% increased Curse Duration
+25
+Jewel
+#% increased Curse Magnitudes
+4
+Jewel
+#% of Damage is taken from Mana before Life
+4
+Jewel
+#% increased Damage against Enemies with Fully Broken Armour
+25
+Jewel
+#% increased Duration of Damaging Ailments on Enemies
+10
+Jewel
+#% chance to Daze on Hit
+10
+Jewel
+Debuffs on you expire #% faster
+10
+Jewel
+#% increased Duration of Ignite, Shock and Chill on Enemies
+10
+Jewel
+#% increased Elemental Damage
+15
+Jewel
+Empowered Attacks deal #% increased Damage
+20
+Jewel
+Meta Skills gain #% increased Energy
+8
+Jewel
+#% increased maximum Energy Shield
+20
+Jewel
+#% faster start of Energy Shield Recharge
+15
+Jewel
+#% increased Evasion Rating
+20
+Jewel
+Damaging Ailments deal damage #% faster
+7
+Jewel
+#% increased Fire Damage
+15
+Jewel
+Damage Penetrates #% Fire Resistance
+10
+Jewel
+#% increased Flask Charges gained
+10
+Jewel
+#% increased Flask Effect Duration
+10
+Jewel
+#% increased Energy Shield from Equipped Focus
+50
+Jewel
+Projectiles have #% chance for an additional Projectile when Forking
+15
+Jewel
+#% increased Freeze Buildup
+20
+Jewel
+#% increased Freeze Threshold
+32
+Jewel
+Herald Skills deal #% increased Damage
+25
+Jewel
+#% increased Flammability Magnitude
+20
+Jewel
+#% increased Ignite Magnitude
+15
+Jewel
+#% increased Skill Effect Duration
+10
+Jewel
+#% increased Knockback Distance
+15
+Jewel
+#% of Skill Mana Costs Converted to Life Costs
+6
+Jewel
+#% increased Life Recovery from Flasks
+15
+Jewel
+#% increased Life Flask Charges gained
+20
+Jewel
+#% increased amount of Life Leeched
+15
+Jewel
+Recover #% of maximum Life on Kill
+2
+Jewel
+#% of Damage taken Recouped as Life
+3
+Jewel
+#% increased Life Regeneration rate
+10
+Jewel
+#% increased Lightning Damage
+15
+Jewel
+Damage Penetrates #% Lightning Resistance
+10
+Jewel
+#% increased Damage with Maces
+16
+Jewel
+#% increased Stun Buildup with Maces
+25
+Jewel
+#% increased Mana Recovery from Flasks
+15
+Jewel
+#% increased Mana Flask Charges gained
+20
+Jewel
+#% increased amount of Mana Leeched
+15
+Jewel
+Recover #% of maximum Mana on Kill
+2
+Jewel
+#% increased Mana Regeneration Rate
+15
+Jewel
+Mark Skills have #% increased Use Speed
+15
+Jewel
+Mark Skills have #% increased Skill Effect Duration
+32
+Jewel
+#% increased Effect of your Mark Skills
+8
+Jewel
+#% to Maximum Cold Resistance
+1
+Jewel
+#% to Maximum Fire Resistance
+1
+Jewel
+#% to Maximum Lightning Resistance
+1
+Jewel
+# to Maximum Rage
+2
+Jewel
+#% increased Melee Damage
+15
+Jewel
+Minions have #% increased Area of Effect
+8
+Jewel
+Minions have #% increased Attack and Cast Speed
+4
+Jewel
+Minions have #% to Chaos Resistance
+13
+Jewel
+Minions have #% increased Critical Hit Chance
+20
+Jewel
+Minions have #% increased Critical Damage Bonus
+25
+Jewel
+Minions deal #% increased Damage
+15
+Jewel
+Minions have #% increased maximum Life
+15
+Jewel
+Minions have #% additional Physical Damage Reduction
+16
+Jewel
+Minions have #% to all Elemental Resistances
+10
+Jewel
+#% increased Movement Speed
+2
+Jewel
+Offering Skills have #% increased Duration
+25
+Jewel
+Offerings have #% increased Maximum Life
+25
+Jewel
+#% increased Global Physical Damage
+15
+Jewel
+#% chance to Pierce an Enemy
+20
+Jewel
+#% increased Pin Buildup
+20
+Jewel
+#% chance to Poison on Hit
+10
+Jewel
+#% increased Magnitude of Poison you inflict
+15
+Jewel
+#% increased Poison Duration
+10
+Jewel
+#% increased Projectile Damage
+15
+Jewel
+#% increased Projectile Speed
+8
+Jewel
+#% increased Damage with Quarterstaves
+16
+Jewel
+#% increased Freeze Buildup with Quarterstaves
+20
+Jewel
+#% increased Attack Speed with Quarterstaves
+4
+Jewel
+#% increased bonuses gained from Equipped Quiver
+6
+Jewel
+Gain # Rage on Melee Hit
+1
+Jewel
+Gain # Rage when Hit by an Enemy
+3
+Jewel
+#% increased Armour, Evasion and Energy Shield from Equipped Shield
+32
+Jewel
+#% increased chance to Shock
+20
+Jewel
+#% increased Shock Duration
+25
+Jewel
+#% increased Magnitude of Shock you inflict
+15
+Jewel
+#% reduced Slowing Potency of Debuffs on You
+10
+Jewel
+#% increased Attack Speed with Spears
+4
+Jewel
+#% increased Critical Damage Bonus with Spears
+20
+Jewel
+#% increased Damage with Spears
+16
+Jewel
+#% increased Critical Hit Chance for Spells
+15
+Jewel
+#% increased Spell Damage
+15
+Jewel
+#% increased Stun Buildup
+20
+Jewel
+#% increased Stun Threshold
+16
+Jewel
+Gain additional Stun Threshold equal to #% of maximum Energy Shield
+15
+Jewel
+Gain additional Ailment Threshold equal to #% of maximum Energy Shield
+15
+Jewel
+#% increased Stun Threshold if you haven't been Stunned Recently
+25
+Jewel
+#% increased Magnitude of Bleeding you inflict
+15
+Jewel
+#% increased Thorns damage
+20
+Jewel
+#% increased Totem Damage
+18
+Jewel
+#% increased Totem Life
+20
+Jewel
+#% increased Totem Placement speed
+20
+Jewel
+Triggered Spells deal #% increased Spell Damage
+18
+Jewel
+#% increased Warcry Cooldown Recovery Rate
+15
+Jewel
+#% increased Damage with Warcries
+20
+Jewel
+#% increased Warcry Speed
+20
+Jewel
+#% increased Withered Magnitude
+10
+Jewel
+#% increased Projectile Damage if you've dealt a Melee Hit in the past eight seconds
+20
+Jewel
+#% increased Melee Damage if you've dealt a Projectile Attack Hit in the past eight seconds
+20
+Jewel
+#% increased Parry Damage
+25
+Jewel
+#% increased Parried Debuff Duration
+15
+Jewel
+#% increased Stun Threshold while Parrying
+25
+Jewel
+Companions deal #% increased Damage
+20
+Jewel
+Companions have #% increased maximum Life
+20
+Jewel
+#% increased Hazard Damage
+20
+Jewel
+#% chance for Attack Hits to apply Incision
+25
+Jewel
+#% increased Glory generation for Banner Skills
+20
+Jewel
+Banner Skills have #% increased Area of Effect
+16
+Jewel
+Banner Skills have #% increased Duration
+25
+Jewel
+#% increased Presence Area of Effect
+25
+Jewel
+#% increased Skill Speed while Shapeshifted
+4
+Jewel
+#% increased Damage while Shapeshifted
+15
+Jewel
+#% increased Damage with Plant Skills
+15
+END_OF_SCRIPT

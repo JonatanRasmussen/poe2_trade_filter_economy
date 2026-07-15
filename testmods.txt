@@ -1,0 +1,7 @@
+Jewel
+#% increased Critical Hit Chance for Spells
+15
+Jewel
+#% faster Curse Activation
+15
+END_OF_SCRIPT
